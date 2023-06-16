@@ -1,0 +1,9 @@
+pyqt5-tools
+
+PyQt5Designer
+PyQt6~=6.4.0
+PyQt5~=5.15.4
+opencv-python==4.5.5.62
+tensorflow
+matplotlib
+keras
